@@ -1,0 +1,420 @@
+---
+wrapped: true
+classes: col-md-8 col-md-offset-2
+title: Condiciones de uso para comerciantes
+---
+
+# Legal terms of use, Acceptable use policy,extra privacy policy for merchants and agreement 
+
+If you need a version of this document on another language, please aske for it at info@loyal.guru, and we'll work on it. If you don't ask for this version, we'll assume that you are able to understand the whole document.
+
+This is a document that targets the **merchants** users of **Loyal Guru**, and not a regular Loyal Guru user. 
+
+# Terms of Use
+
+Thanks for using Loyal Guru by Jobtitude.
+Please read these Terms carefully. By using Loyal Guru or signing up for an account, you’re agreeing to these Terms. This is a legal agreement.
+We’ll start with the basics, including a few definitions that should help you understand this agreement. Jobtitude (“Jobtitude” or the “Service”) is a loyalty platform service offered through the URL www.loyalguru.com (we’ll refer to it as the “Website”) that allows you to create, send, and manage email newsletters (each message is called an “Email”) to individual recipients. Jobtitude has employees, independent contractors, and representatives ("our Team"). As a customer of the Service or a representative of an entity that’s a customer of the Service, you're a “Member” according to this agreement (or “you”).
+These Terms define the terms and conditions under which you’re allowed to use Loyal Guru by Jobtitude and how we’ll treat your account while you’re a Member. If you have any questions about our terms, feel free to contact us ( info@loyalguru ).
+
+## ACCOUNT
+
+### 1. Eligibility
+
+In order to use Loyal Guru by Jobtitude, you must:
+
+1.  be at least eighteen (18) years old and able to enter into contracts;
+2.  agree to the Terms; and
+3.  provide true, complete, and up to date contact information.
+
+By using Loyal Guru by Jobtitude, you represent and warrant that you meet all the requirements listed above, and that you won’t use Loyal Guru by Jobtitude in a way that violates any laws or regulations. Jobtitude may refuse service, close accounts of any users, and change eligibility requirements at any time.
+Represent and Warrant
+“Representing and warranting” is like making a legally enforceable promise.
+
+### 2. Term
+
+The Term begins when you sign up for Loyal Guru by Jobtitude and continues as long as you use the Service. Clicking the button and entering your username means that you’ve officially “signed” the Terms. If you sign up for Loyal Guru by Jobtitude on behalf of a company or other entity, you represent and warrant that you have the authority to accept these Terms on their behalf. 
+Also, signing this document means that you’ve officially “signed” the terms. Either if you’ve signed up by the website or not.
+
+### 3. Closing Your Account
+
+You or Jobtitude may terminate this Agreement at any time and for any reason by giving Notice to the other party. We may suspend our Service to you at any time, with or without cause. If we terminate your account without cause, we'll refund a prorated portion of your monthly prepayment or reimburse you for unused Credits. We won’t refund or reimburse you if there’s cause, like a violation of these Terms or our Acceptable Use Policy. Once terminated, we may permanently delete your account and all the data associated with it, including your emails from our Website. If you don’t log in to your account for 12 or more months, we may treat your account as "inactive" and permanently delete the account and all the data associated with it.
+Acceptable Use Policy
+Our Acceptable Use Policy sets some rules that you have to follow as a Jobtitude user. Some are dictated by the law, some are common sense (do unto others), and some are based on our experience delivering email.
+
+### 4. Changes
+ 
+We may change any of the Terms by posting revised Terms of Use on our Website and/or by sending an email to the last email address you gave us. Unless you terminate your account within ten (10) days, the new Terms will be effective immediately and apply to any continued or new use of Loyal Guru by Jobtitude. We may change the Website, the Service, or any features of the Service at any time.
+
+### 5. Account and Password
+
+You’re responsible for keeping your account name and password confidential. You’re also responsible for any account that you have access to, whether or not you authorized the use. You’ll immediately notify us of any unauthorized use of your accounts. We’re not responsible for any losses due to stolen or hacked passwords. We don’t have access to your current password, and for security reasons, we may only reset your password.
+
+### 6. Account Disputes
+
+We don’t know the inner workings of your organization or the nature of your personal relationships, and we don't arbitrate disputes over who owns an account. You won't request access to or information about an account that's not yours, and you'll resolve any account-related disputes directly with the other party. We decide who owns an account based on the content of the emails in that account, and if multiple people or entities are identified in the content, then we'll rely on the contact information listed for that account.
+PAYMENT
+
+### 7. Monthly Plans
+
+Our charges for monthly plans maye, or not, be posted on our Website and may be changed from time to time. If any part of a month is included in the Term, then payment is due for the full month. Payments are due for any month on the same date, or the closest date in that month, to the day you signed up with us and made your first monthly payment (the "Pay Date”)
+
+### 8. Pay for credits ( email/sms/push )
+
+You may buy Credits to use our campaign Services. If you choose a Credits roll over and don’t expire, but if you’re inactive for more than 12 months your account may be deleted.
+
+### 9. Credit Cards
+
+As long as you’re a Member or have an outstanding balance with us, you'll provide us with valid credit card information and authorize us to deduct the monthly charges against that credit card. You’ll replace the information for any credit card that expires with information for a different valid credit card. Anyone using a credit card represents and warrants that he or she is authorized to use that credit card, and that any and all charges may be billed to that credit card and won’t be rejected. If, for some reason, we’re unable to process your credit card order, we’ll try to contact you by email and suspend your account until your payment can be processed. 
+
+### 10. Refunds
+
+We’ll give you a refund for a prepaid month if we stop providing our Services to you for a reason that's not laid out in these Terms or our Acceptable Use Policy. You won’t be entitled to a refund from us under any other circumstances. We may offer a refund if a Member applies for one based on the requirements posted on the Website.
+
+### 11. Changes
+
+We may change our fees at any time by posting a new pricing structure to our Website and/or sending you a notification by email.
+RIGHTS
+
+### 12. Proprietary Rights Owned by Us
+
+You shall respect our proprietary rights in the Website and the software used to provide Loyal Guru by Jobtitude (proprietary rights include patents, trademarks, service marks, and copyrights). 
+
+### 13. Proprietary Rights Owned by You
+
+You represent and warrant that you either own or have permission to use all of the material in your Emails. You retain ownership of the materials you upload to the Service. We may use or disclose your materials only as we describe in these Terms and our Privacy Policy.
+
+### 14. Privacy Policy
+
+We may use and disclose your information according to our Privacy Policy. Our Privacy Policy will be treated as part of these Terms.
+
+### 15. Right to Review Email Campaigns
+
+We may view, copy, and internally distribute content from your Emails and account to create algorithms and programs ("Tools") that help us spot problem accounts. We use these Tools to find Members who violate these Terms or laws.
+
+## RULES AND ABUSE
+
+### 16. General Rules
+
+You promise to follow these rules:
+
+1.  You won’t send Spam! By “spam,” we mean the definition on the Spamhaus website.
+2.  You won’t use purchased, rented, or third-party lists of email addresses.
+3.  You won’t violate our Acceptable Use Policy, which is part of this Agreement.
+4.  If you use our API, you'll comply with the same restrictions.
+If you violate any of these rules, then we may suspend or terminate your account.
+
+#### Spam
+
+In short, spam means “unsolicited bulk email.” If you send people mass email without their permission, you’re spamming.
+
+### 17. Reporting Abuse
+
+If you think anyone is violating any of these Terms, please notify us immediately. If you received spam you think came from a Jobtitude user, we want to hear about it. Please report it to info@loyal.guru If you think anyone has posted material that violates any copyrights, then you may notify us.
+
+Reporting Abuse
+Every Loyal Guru by Jobtitude campaign has an embedded Campaign Tracking ID (CID) in the header that makes it easy to report suspected spam. If it doesn’t contain a CID, then it didn’t come from Jobtitude.
+
+### 18. Bandwidth Abuse/Throttling
+
+You may only use our bandwidth for your Loyal Guru by Jobtitude emails. We provide image hosting only for your email campaigns, so you may not host images on our servers for anything other than your email campaigns (like a website). We may throttle your sending or connection through our API at our discretion.
+
+### 19. Compliance with Laws
+
+You represent and warrant that your use of Loyal Guru by Jobtitude will comply with all applicable laws and regulations. You’re responsible for determining whether our Services are suitable for you to use in light of any regulations like HIPAA, GLB, EU Data Privacy Laws, or other laws. If you're subject to regulations (like HIPAA) and you use our Service, then we won't be liable if our Service doesn't meet those requirements. If you’re located in the European Economic Area (EEA) or send to anyone in the EEA, you represent and warrant that in creating your Email/SMS/Push distribution list, sending Emails/SMS/Push via Loyal Guru by Jobtitude, and collecting information as a result of sending Emails, you:
+
+#### 1.  Will clearly describe in writing how you plan to use any data collected, including for your use of Loyal Guru by Jobtitude. You’ll get express consent to transfer data to Loyal Guru by Jobtitude as part of this process, and you’ll otherwise comply with whatever privacy policy you have posted.
+
+#### 2.  Have complied, and will comply, with all regulations, as well as data protection, electronic communication, and privacy laws that apply to the countries where you’re sending any form of email/sms/push through Loyal Guru by Jobtitude.
+
+#### 3.  Have collected, stored, used, and transferred all data relating to any individual in compliance with all data protection laws and regulations. You have the necessary permission to allow Jobtitude to receive and process data and send communications to that individual on your behalf.
+
+#### 4.  Agree to indemnify and hold us harmless from any losses, including attorney fees, that result from your breach of any part of these warranties.
+European Economic Area
+This applies to people who are sending to or from the European Economic Area. The EEA includes countries that are part of the European Union, plus Iceland, Liechtenstein, and Norway.
+
+### 20. EU Export Controls
+The software that supports the Services (the "Software") is subject to Europe export controls. None of the Software may be downloaded or otherwise exported or re-exported in violation of Europe export laws. You’re downloading and using the Software at your own risk.
+
+### Export Controls
+
+Export laws are set up by the government to keep certain goods and services from reaching other countries, usually because of security concerns or trade agreements.
+
+### LIABILITY
+
+### 21. Limitation of Liability
+
+To the maximum extent permitted by law, you assume full responsibility for any loss that results from your use of the Website and the Services, including any downloads from the Website. We and our Team won’t be liable for any indirect, punitive, special, or consequential damages under any circumstances, even if they’re based on negligence or we’ve been advised of the possibility of those damages. Our total liability for all claims made about the Service in any month will be no more than what you paid us for the Service the month before.
+
+### 22. No Warranties
+
+To the maximum extent permitted by law, we provide the material on the Website and the Service as is. That means we don’t provide warranties of any kind, either express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose.
+Warranties of Merchantability
+Since people use Loyal Guru by Jobtitude for a variety of reasons, we can’t guarantee that it will meet your specific needs. But we hope it does!
+
+### 23. Indemnity
+
+You agree to indemnify and hold us and our Team harmless from any losses (including attorney fees) that result from any claims you make that aren’t allowed under these Terms due to a "Limitation of Liability" or other provision. You also agree to indemnify and hold us harmless from any losses (including attorney fees) that result from third-party claims that you or someone using your password did something that, if true, would violate any of these Terms.
+
+##Indemnity
+
+Indemnity is an agreement to compensate someone for a loss.
+
+### 24. Attorney Fees
+
+If we file an action against you claiming you breached these Terms and we prevail, we’re entitled to recover reasonable attorney fees and any damages or other relief we may be awarded.
+
+### 25. Liquidated Damages
+
+In some cases, a breach of these Terms could cause damages, but proving the actual damages would be impossible. These cases will result in the corresponding liquidated damages, which are a reasonable pre-estimate of the damages:
+
+#### 1.  If you send emails that violate anti-Spam laws, then the liquidated damages will be five times the amount you paid us over the past 12 months, but not less than 1000€.
+
+#### 2.  If you host images for anything other than your Emails, or use our resources in any way that’s not permitted by these Terms, then the liquidated damages will be four times the amount you paid us over the past 12 months, but not less than 1000€.
+
+#### 3.  If you don’t pay an amount due within thirty (30) days after we send you a late payment notice, then the liquidated damages will be three times the total amount you paid us over the past 12 months, but not less than 500€ plus the amount owed.
+
+## Liquidated Damages
+
+For example, if someone were to get our IPs blacklisted or lower our deliverability by breaking spam laws, we may seek liquidated damages since it’s hard to put a number on those losses.
+
+### 26. Equitable Relief
+
+If you violate these Terms then we may seek injunctive relief (meaning we may request a court order to stop you) or other equitable relief.
+
+### 27. Subpoena Fees
+
+If we have to provide information in response to a subpoena related to your account, then we may charge you for our costs. These fees may include attorney and employee time spent retrieving the records, preparing documents, and participating in a deposition.
+
+### 28. Disclaimers
+
+We and our Team aren’t responsible for the behavior of any advertisers, linked websites, or other Members.
+
+## FINE PRINT
+
+### 29. Assignments
+
+You may not assign any of your rights under this agreement to anyone else. We may assign our rights to any other individual or entity at our discretion.
+
+### 30. Force Majeure
+
+We won’t be held liable for any delays or failure in performance of any part of the Service, from any cause beyond our control. This includes, but is not limited to, acts of God, changes to law or regulations, embargoes, war, terrorist acts, riots, fires, earthquakes, nuclear accidents, zombie apocalypse, floods, strikes, power blackouts, volcanic action, unusually severe weather conditions, and acts of hackers or third-party internet service providers.
+
+### 31. Survivability
+
+Even if this Agreement is terminated, the following sections will continue to apply: Proprietary Rights Owned by Us, Proprietary Rights Owned by You, Compliance with Laws, Limitation of Liability, No Warranties, Indemnity, Choice of Law, Severability, and Entire Agreement.
+
+### 32. Severability
+
+If it turns out that a section of this Agreement isn’t enforceable, then that section will be removed or edited as little as necessary, and the rest of the Terms will still be valid.
+
+### 33. Interpretation
+
+The headers and sidebar text are provided only to make this agreement easier to read and understand. The fact that we wrote these Terms won’t affect the way this Agreement is interpreted.
+
+### 34. Amendments and Waiver
+
+Amendments or changes to these Terms won’t be effective until we post revised Terms on the Website. That aside, additional terms may apply to certain features of the Service (the "Additional Terms"). The Additional Terms will be considered incorporated into these Terms when you activate the feature. Where there’s a conflict between these Terms and the Additional Terms, the Additional Terms will control. If we don’t immediately take action on a violation of these Terms, we’re not giving up any rights under the Terms, and we may still take action at some point.
+
+### 35. No Changes in Terms at Request of Member
+
+Because we have so many Members, we can’t change these Terms for any one Member or group. If we did that, keeping up with the changes would be a logistical nightmare. So no changes, no exceptions.
+
+### 36. Further Actions
+
+You’ll provide all documents and take any actions necessary to meet your obligations under these Terms.
+
+### 37. Notification of Security Breach
+
+In the event of a security breach that may affect you or anyone on your Email/SMS/Push distribution lists (each a "List"), we’ll notify you of the breach and provide a description of what happened. If we determine, and notify you, that you need to forward all or part of that information to anyone on your Lists, you’ll promptly do it.
+
+### 38. Notices
+
+Any notice to you will be effective when we send it to the last email or physical address you gave us or posted on our Website. Any notice to us will be effective when delivered to us along with a copy to our legal counsel: Attn. Jobtitude, carrer modolell 5 ático, 08021, Barcelona, or any addresses as we may later post on the Website.
+
+### 39. Entire Agreement
+
+These Terms, our Privacy Policy, Acceptable Use Policy, and any Additional Terms you’ve agreed to make up the entire agreement and supersede all prior agreements, representations, and understandings.
+Congratulations! You’ve reached the end. Thanks for taking the time to learn about Loyal Guru by Jobtitude's policies.
+
+
+## Privacy Policy ( extra terms for Merchants )
+
+Thanks for using Loyal Guru by Jobtitude. This policy explains the what, how, and why of the information we collect when you use Loyal Guru by Jobtitude. It also explains the specific ways we use and disclose that information. We never sell lists or email addresses.
+
+### THE BASICS
+
+#### 1. Definitions
+
+We’ll start by getting a few definitions out of the way that should help you understand this policy. When we say "we," "us," and “Loyal Guru”, “Loyal Guru by Jobtitu” or "Jobtitude,” we’re referring to Jobtitude.SL, a Spain S.L. When we say “you” or “Member,” we’re referring to the person or entity that’s registered with us to use the Services.
+We provide online platforms that you may use to create, send, and manage emails/sms/push and other campaigns (the “Services”). In the course of providing the Services, we may collect Personal Information, which means information about a Member. A "Distribution List" is a list of email/sms/push addresses that one of our Members has sent, or intends to send, emails to, address, and all information relating to those email addresses.
+
+#### 2. Changes
+
+If there are any changes to this Privacy Policy, we’ll post them on the Website and send them to the last email address you gave us. Any changes will be effective as of the date we post on the Website or send the email (or whichever date is later). You may object to any changes within 20 days after they’re posted on our Website or delivered to you, in which case none of the proposed changes will be effective with respect to information that we’ve already collected from you, but will apply only to information we collect in the future. We won't treat information of any open account differently from any other open account. If you object to changes in our Privacy Policy, we’ll have to terminate your account. That said, if we ever changed our Privacy Policy to expand our rights to use or disclose Personal Information for marketing purposes, you‘d be able to opt out without termination.
+
+#### 3. Effective Date
+
+This Privacy Policy is effective with respect to any data that we’ve collected, or collect, about and/or from you, according to our Terms of Use.
+
+#### 4. Questions
+
+If you have any questions or comments, or if you want to update, delete, or change any Personal Information you’ve submitted on the Website, please use our email (info@loyal.guru) to get in touch. You may also contact us by postal mail at:
+
+Jobtitude   
+C/ modolell 5, ático   
+08021 Barcelona   
+Spain   
+YOUR INFORMATION   
+
+#### 5. Information We Collect
+
+1.  Information You Provide to Us: When you register to use the Services, communicate with our customer service team, send us an email, or post on our blog, you’re giving us information that we collect. That information may include your IP address, name, physical address, email address, phone number, credit card information, and other details like gender, occupation, and other demographic information. By giving us this information, you consent to your information being collected, used, disclosed, and stored by us, only as described in our Terms of Use and Privacy Policy.
+2.  List and Email/SMS Information: When you add an email/sms/push Distribution List or create an email/sms/push with the Services, we have access to the data on your list and the information in your email.
+3.  Information from your Use of the Service: We may get information about how and when you use the Services. This information may include your IP address, time, date, browser used, and actions taken by you within the application.
+4.  Cookies: When you register to use Loyal Guru by Jobtitude, we store "cookies," which are strings of code, on your computer. We use those cookies to collect information about when you visit our Website, when you use the Services, your browser type and version, your operating system, and other similar information. You may turn off cookies that have been placed on your computer by following the instructions on your browser, but if you block our cookies, it may be more difficult (and maybe even impossible) to use the Services. When you play one of the videos on the Websites, the Flash player may use local shared objects, which are also called Flash cookies. We don’t use these Flash cookies for anything, but we can’t stop the player from dropping them (we tried).
+5.  Web Beacons: When we send emails to registered Loyal Guru by Jobtitude customers, we'll sometimes track who opened the emails and who clicked the links. We do that to measure our Email Campaigns’ performance and to improve our features for specific segments of customers. To do this, we include single pixel gifs, also called web beacons, in emails we send. Web beacons allow us to collect information about when you open the email, your IP address, your browser or email client type, and other similar details. We also include Web Beacons in the emails we deliver for you. We use the data from those Web Beacons to create the reports you see about who has or hasn’t opened emails or clicked links. Reports are also available to us when we send you email, so we may collect and review that information.
+6.  Information from Other Sources: We may get more information about you, like name, age, and participation in social media websites, by searching the internet or querying third parties (we’ll refer to that information as Supplemental Member Information). We only collect data that’s publicly available or provided by a third party according to its terms of use.
+Cookies
+Cookie management tools from your browser won’t remove Flash cookies, but here’s how to manage privacy settings for them.
+Supplemental Member Information
+We use this “Supplemental Member Information” to develop features like Social Pro, a tool that helps you learn about your subscribers and send them more relevant content.
+
+#### 6. Use and Disclosure of Your Personal Information
+
+We may use and disclose your Personal Information only as follows:
+
+1.  To promote use of our Services. For example, if you leave your Personal Information when you visit our Website and don’t sign up for any of the Services, we may send you an email asking whether you want to sign up. And if you use any of our Services, and we think you might benefit from using another Service we offer, we may send you an email telling you about it.
+2.  To bill and collect money owed to us. This includes sending you emails, invoices, receipts, notices of delinquency, and alerting you if we need a different credit card number. We use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments. To learn more about the steps we take to safeguard that data, see Section 7 below.
+3.  To send you System Alert Messages. For example, we may let you know about temporary or permanent changes to our Services, like planned outages, new features, version updates, releases, abuse warnings, and changes to our Privacy Policy.
+4.  To enforce compliance with our Terms of Use and applicable law. This may include developing tools and algorithms that help us prevent violations.
+5.  To provide customer support.
+6.  To protect the rights and safety of our Members and third parties, as well as our own.
+7.  To meet legal requirements like complying with court orders and valid 
+subpoenas.
+8.  To provide information to representatives and advisors, like 
+attorneys and accountants, to help us comply with legal, accounting, or security requirements.
+9.  To prosecute and defend a court, arbitration, or similar proceeding.
+10. To support and improve the Services we offer. This includes adding features that compare Members' Email Campaigns, or using data to suggest other publishers your subscribers may be interested in.
+11. To communicate with you about your account for informational, not promotional, reasons.
+12. To transfer your information in the case of a sale, merger, consolidation, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy.
+13. To send you informational and promotional content that you may choose (or "opt in") to receive. You can stop receiving our promotional emails by following the unsubscribe instructions included in every email.
+Unsubscribe Links
+It’s the law! Unsubscribe links are required by theCAN-SPAM act. Plus, making it easy for people to opt out is the nice thing to do.
+
+#### 7. Public Information and Third Parties
+
+1.  Social Media Widgets. Our Websites include social media features, like the Facebook Like button. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+2.  Links to Third-Party Sites. Our Websites include links to other websites, whose privacy practices may be different from Loyal Guru by Jobtitude’s. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit.
+
+#### 8. Content of Email Campaigns
+
+When you send email marketing, it bounces around from server to server as it crosses the internet. Along the way, server administrators can read what you send. Email wasn’t built for confidential information. If you have something confidential to send, please don’t use Loyal Guru by Jobtitude.
+Sometimes we review the content of our Members’ email campaigns to make sure they comply with our Terms of Use. To improve that process, we have software that helps us find email campaigns that may violate our Terms. Our employees or independent contractors may review those particular Email Campaigns. This benefits all of our Members who comply with the Terms of Use because, among other things, it reduces the amount of spam being sent through our servers and helps to maintain high deliverability.
+Confidentiality
+Our rule of thumb is “Never send anything in an email that you wouldn’t put on a postcard.”
+YOUR LISTS
+
+#### 9. Your Distribution Lists
+
+Your subscriber lists are stored on a secure Loyal Guru by Jobtitude server. We don’t, under any circumstances, sell your lists, contact people on your lists, market to people on your lists, steal your lists, or share your lists with any other party, unless it’s required by law. If someone on your list complains or contacts us, we may then contact that person. Only authorized employees have access to view Distribution Lists. You may export (download) your lists from Loyal Guru by Jobtitude at any time, as long as we have a copy.
+We’ll use and disclose the information in your Distribution Lists only for the reasons listed under Use of Your Personal Information, except the following. (In other words, we will not use and disclose the information in your Distribution Lists to):
+
+- bill or collect money owed to us;
+- send you system alert messages;
+- communicate with you about your account; or
+- send you informational and promotional content.
+
+Your List Data
+
+It’s worth repeating: We respect your privacy and your subscribers’ privacy. We’d never sell your information or bother anyone on your mailing list.
+SECURITY
+
+#### 10. Notice of Breach of Security
+
+Nobody’s safe from hackers. If a security breach causes an unauthorized intrusion into our system that materially affects you or people on your Distribution Lists, then Loyal Guru by Jobtitude will notify you as soon as possible and later report the action we took in response.
+
+#### 11. Safeguarding Your Information
+
+To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. Our vendor is certified as compliant with card association security initiatives, like the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC).
+Jobtitude accounts require a username and password to log in. You must keep your username and password secure, and never disclose it to a third party. Because the information in your Distribution Lists is so sensitive, account passwords are encrypted, which means we can’t see your passwords. We can’t resend forgotten passwords either. We’ll only reset them.
+COMPLIANCE
+
+#### 12. Accuracy of Data, Transparency, and Choice
+
+We do our best to keep your data accurate and up to date, to the extent that you provide us with the information we need to do that. If your data changes (like a new email address), then you’re responsible for notifying us of those changes.
+We only store data about you for as long as it’s reasonably required to fulfill the purposes that gave us the right to access it in the first place. We keep some data indefinitely, relating to when and where emails were sent, which bounced, which resulted in a complaint, and similar information, because we use it to help us screen out people who violate SPAM laws, and for other reasons explained in this policy.
+We’ll give you access to any Personal Information about you that we hold within 30 days of any request for that information you make by emailing info@loyal.guru. Unless it’s prohibited by law, we’ll remove any Personal Information about you from our servers at your request.
+
+## Acceptable Use Policy
+
+We're in this thing together. The actions individual members take can have a big impact on our system as a whole. That’s why all Loyal Guru by Jobtitude users must follow this Acceptable Use Policy. If you violate this policy, we may suspend or terminate your account.
+Prohibited Content
+Please don't use Loyal Guru by Jobtitude to send anything offensive, to promote anything illegal, or to harass anyone. You may not send:
+- Pornography or other sexually explicit Emails
+- Emails offering to sell illegal goods or services
+- Emails that violate CAN-SPAM Laws
+- Marketing or commercial email without permission
+Some industries have higher-than-normal abuse complaints, which can in turn jeopardize the deliverability of our entire system. Nothing personal, but in order to maintain the highest delivery rates possible for all our customers, we can’t allow businesses that offer these types of services, products, or content:
+
+- Escort and dating services
+- Pharmaceutical products
+- Work from home, make money on online, and lead generation opportunities
+- Online trading, day trading tips, or stock market-related content
+- Gambling services or products
+- Multi-level marketing
+- Affiliate marketing
+- Credit repair and get out of debt opportunities
+- Mortgages and loans
+- Nutritional, herbal, and vitamin supplements
+- Adult novelty items or references
+- List brokers or list rental services
+If you send this sort of content, most email services providers won’t be able to help you. You might want to look into setting up your own mail server.
+Prohibited Actions
+We work hard to keep our system clean, but we count on our customers to pitch in too. You may not:
+- Send Spam. By "spam," we mean the definition on the Spamhaus website. In short, spam is "unsolicited bulk email or sms messaging"
+- Put into your Email/SMS any material that wasn’t created by you, provided for you to use, or that would violate anyone's rights. That includes text, photos, graphics, and other content.
+- Use any misleading or incorrect names, addresses, email addresses, subject lines, or other information on the Website or in any Emails created or sent using our Service.
+- Share your password.
+- Decipher, decompile, disassemble, or reverse engineer any of the software on our Website, or in any way used or downloaded from the Website.
+- Use any of the software on our Website, or downloaded from the Website, to create a competing product.
+- Set up multiple accounts for any person or entity in order to send similar content, unless you’re part of a franchise.
+- Import or incorporate any of this information into any lists, emails or uploads to our servers: Social Security numbers, passwords, security credentials, or sensitive personal information of any kind.
+- Upload or send to purchased lists, rented lists, or third-party lists of any kind. (Don't have a permission-based list yet? You can sign up for a Loyal Guru by Jobtitude account, complete the list setup step, and add a signup form to your website to grow your list.)
+- Send content created in Jobtitude through another service.
+- Host images on our servers for any purpose other than for use in your email/push/sms campaigns.
+- Delete, bulk unsubscribe, or otherwise modify your list in order to avoid our billing thresholds.
+Spam
+As an email/sms/push service provider, we feel it's our responsibility to be extra vigilant about preventing spam-related abuse. It's also in our best interest to keep the system clean, because our reputation and deliverability depend on it. That’s why you may only use Loyal Guru by Jobtitude to send Emails to people and entities that either:
+1.  Gave you written (including electronic) permission to send Emails to them, have not withdrawn that permission, and:
+1.  gave you that permission in the past 12 months; or
+2.  didn’t object to promotional content you sent them in the past 12 months.
+2.  Gave you their name and email address in connection with a purchase, or negotiations to purchase, a product or service from you, have not opted out from receiving your emails, and either:
+1.  purchased something from you or negotiated a purchase from you in the past 12 months; or
+2.  didn’t object to promotional content you sent them in the past 12 months.
+If you send Emails/SMS/Push to a list and you get an unusual amount of SPAM complaints, ISPs will start blocking emails from your company. They’ll also ask Loyal Guru by Jobtitude to shut down your account ("ask" is putting it mildly). So if you don't have proof that every recipient on your list opted-in to receive your emails, or otherwise meets the requirements listed above, then don’t import the email addresses into Loyal Guru by Jobtitude.
+Best Practices
+Here are some steps you can take to avoid accidentally becoming a spammer or otherwise wreaking havoc on our system:
+- Sending your first campaign to an old list? Some recipients won't remember you, and they’ll report you for spamming. Remind them who you are and how they got on your list in the first place. 
+- Importing from a CRM? Break your list into separate segments or interest groups so you can send relevant content to your customers ("People I met at a trade show,” “People who bought a certain product from us in the past”). Don't just mix a bunch of different lists together and send one "blast" to all of them. And while we’re at it, don’t call it a “blast.”
+- If you’re sending on behalf of clients, educate them about responsible email marketing. 
+- Before importing a list into Loyal Guru by Jobtitude from your CRM or another database, read and understand our permission rules. Remove any prospects or leads that didn’t explicitly request email marketing from you or otherwise meet the requirements in our Terms. Even if you're sending email marketing to customers that consented to receive your Email or SMS, you’re still required by law to allow them to opt out of your email marketing list (you may need to turn on that feature in your CRM tool).
+Thanks for taking the time to read our Acceptable Use Policy. If you follow these guidelines, then you should have smooth sailing with your Loyal Guru by Jobtitude account.
+ 
+Company Data
+Name:
+Address:
+Postal Code:
+CIF/NIF:
+Contact mail:
+Telephone:
+
+Company representant:
+Name:
+CIF/NIF:
+Sign:
+
+
+
+
+

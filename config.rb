@@ -70,3 +70,10 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+activate :directory_indexes
+
+# config.rb
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-58977915-1' # Replace with your property ID.
+end

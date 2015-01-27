@@ -1,4 +1,18 @@
 <%= partial "partials/header" %>
 <%= partial "partials/navbar" %>
-<%= partial "partials/home" %>
+<% if current_page.data.wrapped %>
+  <div class="container">
+  <div class="row" style="padding-top:40px">
+  <div class="<%=current_page.data.classes%>">
+  <%= yield %>
+  </div>
+  </div>
+<% else %>
+  <%= yield %>
+<% end %>
+
 <%= partial "partials/footer" %>
+
+
+
+
