@@ -1,27 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Loyal Guru - Tu plataforma online de fidelización de clientes</title>
+  <meta name="description" content="Una plataforma online para hacer marketing omnicanal, crear una experiencia in-store única, redirigir tráfico online a tus puntos de venta físicos y en general activar las ventas de tus establecimientos.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Una plataforma online para hacer marketing omnicanal, crear una experiencia in-store única, redirigir tráfico online a tus puntos de venta físicos y en general activar las ventas de tus establecimientos.">
+  <!-- stylesheets -->
 
-<title> Loyal Guru - Tu plataforma online de fidelización de clientes y marketing omnicanal</title>
+    <!-- React -->
+    <%= stylesheet_link_tag "compiled/theme.css" %>
+    <%= stylesheet_link_tag "vendor/animate.css" %>
+    <%= stylesheet_link_tag "vendor/brankic.css" %>
 
-  <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">    <!-- Custom -->
+    <%= stylesheet_link_tag "styles.css" %>
 
-  <% if false %>
-   <!-- toca revisar -->
-   <%= stylesheet_link_tag "app.css" %>
-   <%= stylesheet_link_tag "jquery.cookiebar.js" %>
-   <%= javascript_include_tag "app.js" %>
-   <%= javascript_include_tag "jquery.cookiebar.js" %>
-  <% end %>
+  <!-- javascript -->
 
-  <link data-turbolinks-track="true" href="https://loyalty-assets-production.s3.amazonaws.com/assets/web-8ba62bfb0bfeee5efe9125dffe507af8.css" media="all" rel="stylesheet" />
-  <script data-turbolinks-track="true" src="https://loyalty-assets-production.s3.amazonaws.com/assets/web-e382cfd2815c745015fe839f7468aa4e.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <%= javascript_include_tag "bootstrap/bootstrap.min.js" %>
+    <%= javascript_include_tag "theme.js" %>
 
-
+  <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 </head>
-<body data-spy="scroll" data-offset="0" data-target="#navbar-main">

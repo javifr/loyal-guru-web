@@ -1,18 +1,11 @@
 <%= partial "partials/header" %>
-<%= partial "partials/navbar" %>
-<% if current_page.data.wrapped %>
-  <div class="container">
-  <div class="row" style="padding-top:40px">
-  <div class="<%=current_page.data.classes%>">
+
+<body id="<%= current_page.data.bodyId%>">
+
+  <%= partial("partials/navbar", :locals => { :htmlClass => current_page.data.navbarClass }) %>
+
   <%= yield %>
-  </div>
-  </div>
-<% else %>
-  <%= yield %>
-<% end %>
+
+  <%= partial "partials/footer_menu" %>
 
 <%= partial "partials/footer" %>
-
-
-
-

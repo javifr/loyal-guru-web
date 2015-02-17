@@ -2,5 +2,6 @@
   "name": "loyal-guru-web",
   "root": "build/",
   "clean_urls": true,
-  "error_page": "error.html"
+  "error_page": "error.html",
+  "exclude": ["theme-react"]
 }

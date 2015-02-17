@@ -17,12 +17,12 @@
 # page "/path/to/file.html", :layout => false
 #
 # With alternative layout
-# page "/path/to/file.html", :layout => :otherlayout
+# page "/business/*.html", :layout => :layout_business
 #
 # A path which all have the same layout
-# with_layout :admin do
-#   page "/admin/*"
-# end
+with_layout :layout_business do
+  page "/business/*"
+end
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {

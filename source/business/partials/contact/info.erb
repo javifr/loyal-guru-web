@@ -1,0 +1,91 @@
+
+  <div id="info">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 message">
+          <h3>Envíanos un mensaje</h3>
+          <p>
+            Puedes contactarnos para cualquier cosa relacionada con Loyal Guru <br/> Te contactaremos en menos de 48 horas
+          </p>
+
+          <div id='crmWebToEntityForm' >
+
+            <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads951445000002112001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatery()' accept-charset='UTF-8' role="form" id="contact-form" >
+
+              <input type='text' style='display:none;' name='xnQsjsdp' value='SvBGmalq041thYo@kRl79w$$'/>
+              <input type='hidden' name='zc_gad' id='zc_gad' value=''/>
+              <input type='text' style='display:none;' name='xmIwtLD' value='lEZm4F5QjXSKryZLgeXxTW-@B6-MHnNR'/>
+              <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='/>
+              <input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;www.loyal.guru&#x2f;' /> <br>
+
+              <div class="form-group">
+                <label for="Last Name">Tu nombre</label>
+                <input type='text'  maxlength='80' name='Last Name' class="form-control"/>
+              </div>
+
+              <div class="form-group">
+                <label for="Company">Empresa</label>
+               <input type='text'  maxlength='100' name='Company' class="form-control"/>
+              </div>
+
+              <div class="form-group">
+                <label for="Phone">Teléfono</label>
+                <input type='text'  maxlength='30' name='Phone' class="form-control"/>
+              </div>
+
+              <div class="form-group">
+                <label for="Phone">Correo electr&oacute;nico</label>
+                <input type='text'  maxlength='100' name='Email' class="form-control"/>
+              </div>
+
+              <div class="form-group">
+                <label for="Phone">N&uacute;mero de tiendas </label>
+                <input type='text'  maxlength='9' name='LEADCF52' class="form-control"/>
+              </div>
+
+              <div class="form-group">
+                <label for="message">Mensaje</label>
+                <textarea class="form-control" id="message" rows="6" name='Description' maxlength='1000'></textarea>
+              </div>
+
+              <div class="submit">
+                <input type="submit" class="button button-small" value="Enviar" />
+              </div>
+
+              <script> var mndFileds=new Array('Last Name','Phone');var fldLangVal=new Array('Nombre completo','Teléfono');function reloadImg(){if(document.getElementById('imgid').src.indexOf('&d') !== -1 ){document.getElementById('imgid').src=document.getElementById('imgid').src.substring(0,document.getElementById('imgid').src.indexOf('&d'))+'&d'+new Date().getTime();}else{document.getElementById('imgid').src = document.getElementById('imgid').src+'&d'+new Date().getTime();}}function checkMandatery(){var name='';var email='';for(i=0;i<mndFileds.length;i++){ var fieldObj=document.forms['WebToLeads951445000002112001'][mndFileds[i]];if(fieldObj) {if(((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0){alert(fldLangVal[i] +' no puede estar vacío'); fieldObj.focus(); return false;}else if(fieldObj.nodeName=='SELECT'){if(fieldObj.options[fieldObj.selectedIndex].value=='-None-'){alert(fldLangVal[i] +' no puede ser nulo'); fieldObj.focus(); return false;}} else if(fieldObj.type =='checkbox'){ if (fieldObj.checked == false){     alert('Please accept  '+fldLangVal[i]); fieldObj.focus();return false;}}try{if(fieldObj.name == 'Last Name'){name = fieldObj.value;}}catch(e){}}}try{if($zoho){var firstnameObj = document.forms['WebToLeads951445000002112001']['First Name'];if(firstnameObj){name = firstnameObj.value +' '+name;}$zoho.salesiq.visitor.name(name);var emailObj = document.forms['WebToLeads951445000002112001']['Email'];if(emailObj){email = emailObj.value;$zoho.salesiq.visitor.email(email);}}}catch(e){}}</script>
+
+          </form>
+
+</div>
+
+
+        </div>
+        <div class="col-md-4 contact">
+          <div class="address">
+            <h3>Dirección:</h3>
+            <p>
+              C/Llacuna 162-164, <br />
+              Barcelona, 08018 <br />
+              España
+            </p>
+          </div>
+          <div class="phone">
+            <h3>Teléfono:</h3>
+            <p>
+              +34 93 551 14 43
+            </p>
+          </div>
+          <div class="mail">
+            <h3>E-mail:</h3>
+            <p>
+              info@loyal.guru
+            </p>
+          </div>
+          <div class="social">
+            <a href="http://facebook.com/yourloyalguru" class="fb"><%= image_tag 'images/social/fb.png' %></a>
+            <a href="http://facebook.com/loyalguru" class="tw"><%= image_tag 'images/social/tw.png' %></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

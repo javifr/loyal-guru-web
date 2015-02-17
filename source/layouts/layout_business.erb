@@ -1,0 +1,11 @@
+<%= partial "/partials/header" %>
+
+<body id="<%= current_page.data.bodyId%>" class="business">
+
+  <%= partial("business/partials/navbar", :locals => { :htmlClass => current_page.data.navbarClass }) %>
+
+  <%= yield %>
+
+  <%= partial "partials/footer_menu" %>
+
+<%= partial "partials/footer" %>

@@ -1,17 +1,18 @@
-
-
-    <div id="navbar" class="navbar-right">
-      <ul class="nav navbar-nav">
-        <li><%= link_to 'Política de privacidad', '/privacy_policy.html' %></li>
-        <li><%= link_to 'Términos de uso para comerciantes', '/merchants_terms_of_use.html' %></li>
-        <li><%= link_to 'Cookies', '/cookies.html' %></li>
-        <li><%= link_to 'Soporte', '/support.html' %></li>
-      </ul>
-    </div><!--/.nav-collapse -->
+  <script type="text/javascript">
+    $(function () {
+      var $demo = $("#demo");
+      $('#demo').on('hidden.bs.modal', function () {
+        $demo.find("iframe").remove();
+      })
+      $('#demo').on('show.bs.modal', function () {
+        if (!$demo.find("iframe").length) {
+          $demo.find(".modal-body").append("<iframe src='http://player.vimeo.com/video/22439234' width='650' height='370' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>")
+        }
+      })
+    });
+  </script>
 
   <%= google_analytics_universal_tag %>
-
-
 
 </body>
 </html>
