@@ -11,7 +11,27 @@
 
 }
 
+#home .navbar.hero{
+  padding-top:6px;
+}
 
+/*#home2 #hero .slides .slide.first .bg {*/
+#home #hero{
+  background-image: url("../images/resources/mall-blurred-soft.png") !important;
+}
+
+#home #hero .img {
+  top: 0px;
+  left: 582px;
+  width: 589px;
+  height: 432px;
+  background-image: url("../images/resources/screenshots/profile-and-cards.png") !important;
+}
+
+#home #hero h1.hero-text {
+line-height: 42px;
+font-size: 32px;
+}
 .align-center{
   text-align:center;
 }
