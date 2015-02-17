@@ -4,7 +4,15 @@
 
   <%= partial("partials/navbar", :locals => { :htmlClass => current_page.data.navbarClass }) %>
 
-  <%= yield %>
+  <% if current_page.data.wrapped %>
+		<div class="container"><div class="row"><div class="col-md-12">
+  <% end %>
+
+	  <%= yield %>
+  
+  <% if current_page.data.wrapped %>
+	  </div></div></div>
+  <% end %>
 
   <%= partial "partials/footer_menu" %>
 
