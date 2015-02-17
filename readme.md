@@ -1,5 +1,4 @@
 
-
 Loyalty
 ( hero con LGAPP y LGAPPMANAGER )
 
@@ -63,6 +62,7 @@ Home
 ## Resto
 
 - Pasar web a Borja para repaso general
+- Repasar web en portatil peque
 - Repasar páginas secundarias ( cookies, etc... )
 - Repaso general
 - Check que el formulario funcione

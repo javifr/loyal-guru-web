@@ -88,6 +88,10 @@ font-size: 32px;
 
 }
 
+.feature ul li{
+ color: #6C7279;
+}
+
 
 .footer-dark {
 /*  background: #fff;*/
