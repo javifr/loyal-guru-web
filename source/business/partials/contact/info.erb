@@ -16,7 +16,7 @@
               <input type='hidden' name='zc_gad' id='zc_gad' value=''/>
               <input type='text' style='display:none;' name='xmIwtLD' value='lEZm4F5QjXSKryZLgeXxTW-@B6-MHnNR'/>
               <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='/>
-              <input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;www.loyal.guru&#x2f;' /> <br>
+              <input type='text' style='display:none;' name='returnURL' value='http&#x3a;&#x2f;&#x2f;staging.loyal-guru-web.divshot.io/business/thank-you&#x2f;' /> <br>
 
               <div class="form-group">
                 <label for="Last Name">Tu nombre</label>
@@ -51,6 +51,8 @@
               <div class="submit">
                 <input type="submit" class="button button-small" value="Enviar" />
               </div>
+
+              <select style='display:none' name='LEADCF4'>  <option value='-None-'>-Ninguno-</option>  <option value='1a LLAMADA'>1a LLAMADA</option>  <option value='2a LLAMADA'>2a LLAMADA</option>  <option value='3a LLAMADA'>3a LLAMADA</option>  <option value='VOLVER A CONTACTAR'>VOLVER A CONTACTAR</option>  <option value='1. PENDIENTE VISITA'>1. PENDIENTE VISITA</option>  <option value='DESCARTADO'>DESCARTADO</option>  <option value='REPESCA'>REPESCA</option>  <option value='FRÍOS'>FRÍOS</option>  <option selected value='WEB FORMULARIO'>WEB FORMULARIO</option>  </select>
 
               <script> var mndFileds=new Array('Last Name','Phone');var fldLangVal=new Array('Nombre completo','Teléfono');function reloadImg(){if(document.getElementById('imgid').src.indexOf('&d') !== -1 ){document.getElementById('imgid').src=document.getElementById('imgid').src.substring(0,document.getElementById('imgid').src.indexOf('&d'))+'&d'+new Date().getTime();}else{document.getElementById('imgid').src = document.getElementById('imgid').src+'&d'+new Date().getTime();}}function checkMandatery(){var name='';var email='';for(i=0;i<mndFileds.length;i++){ var fieldObj=document.forms['WebToLeads951445000002112001'][mndFileds[i]];if(fieldObj) {if(((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0){alert(fldLangVal[i] +' no puede estar vacío'); fieldObj.focus(); return false;}else if(fieldObj.nodeName=='SELECT'){if(fieldObj.options[fieldObj.selectedIndex].value=='-None-'){alert(fldLangVal[i] +' no puede ser nulo'); fieldObj.focus(); return false;}} else if(fieldObj.type =='checkbox'){ if (fieldObj.checked == false){     alert('Please accept  '+fldLangVal[i]); fieldObj.focus();return false;}}try{if(fieldObj.name == 'Last Name'){name = fieldObj.value;}}catch(e){}}}try{if($zoho){var firstnameObj = document.forms['WebToLeads951445000002112001']['First Name'];if(firstnameObj){name = firstnameObj.value +' '+name;}$zoho.salesiq.visitor.name(name);var emailObj = document.forms['WebToLeads951445000002112001']['Email'];if(emailObj){email = emailObj.value;$zoho.salesiq.visitor.email(email);}}}catch(e){}}</script>
 

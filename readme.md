@@ -1,13 +1,9 @@
 
-- Check que el formulario funcione
-- Thank your page para el form que se vea bien
-- Check un poco de meta description / titles
-- Repasada general erratas
-- Una imagen de background por cada sección de plataforma
 
 
 # secundario:
-
+- Meter un tpv por algún lado
+- Una imagen de background por cada sección de plataforma
 - Boton de "tienes un negocio" sin outline cuando es navbarnormal
 - Disminuir tamaño de imágenes
 - Móvil: Ajustar logo  de Loyal Guru en menu para móvil
