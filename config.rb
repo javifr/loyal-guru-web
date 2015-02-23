@@ -53,6 +53,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+activate :i18n, :templates_dir => "source", :mount_at_root => :es , :langs => [:en, :es]
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
