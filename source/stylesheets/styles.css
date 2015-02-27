@@ -19,6 +19,7 @@
 }
 
 
+
 #home .navbar.hero{
   padding-top:6px;
 }
@@ -68,6 +69,12 @@ font-size: 32px;
   margin-top: -11px;
 }
 
+@media screen and (max-width: 747px) {
+  .navbar-brand img{
+    max-height: 37px;
+  }
+}
+
 
 #tabs .button-outline:hover{
   color:white !important;
@@ -100,6 +107,13 @@ font-size: 32px;
  color: #6C7279;
 }
 
+.language-choser{
+  border-left: 1px solid rgba(221, 221, 221, 0.57);
+}
+
+body.customer .language-choser{
+/*  border-left:none;*/
+}
 
 .footer-dark {
 /*  background: #fff;*/

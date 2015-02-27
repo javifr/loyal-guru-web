@@ -5,15 +5,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
   <% if current_page.data.title %>
-    <title><%= current_page.data.title %></title>
+    <title><%= t current_page.data.title %></title>
   <% else %>
-    <title>Loyal Guru - Tu plataforma online de fidelización de clientes</title>
+    <meta name="description" content="<%= t "business.home.seo.title" %>">
   <% end %>
 
   <% if current_page.data.description %>
-    <meta name="description" content="<%= current_page.data.description %>">
+    <meta name="description" content="<%= t current_page.data.description %>">
   <% else %>
-    <meta name="description" content="Una plataforma online para hacer marketing omnicanal, crear una experiencia in-store única, redirigir tráfico online a tus puntos de venta físicos y en general activar las ventas de tus establecimientos.">
+    <meta name="description" content="<%= t "business.home.seo.description" %>">
   <% end %>
 
 

@@ -16,18 +16,31 @@
                     <%= t "menu.platform" %> <b class="caret"></b>
                   </a>
                   <ul class="dropdown-menu">
-                    <li><%= link_to (t "menu.loyalty" ), '/business/loyalty.html' %></li>
-                    <li><%= link_to 'Marketing', '/business/marketing.html' %></li>
-                    <li><%= link_to (t "menu.operations" ), '/business/operations.html' %></li>
+                    <li><%= link_to_i18n (t "menu.loyalty" ), '/business/loyalty.html' %></li>
+                    <li><%= link_to_i18n 'Marketing', '/business/marketing.html' %></li>
+                    <li><%= link_to_i18n (t "menu.operations" ), '/business/operations.html' %></li>
                   </ul>
               </li>
 
-              <li><%= link_to (t "menu.plans" ), '/business/pricing.html' %></li>
-              <li><%= link_to (t "menu.contact" ), '/business/contact.html' %></li>
+              <li><%= link_to_i18n (t "menu.plans" ), '/business/pricing.html' %></li>
+              <li><%= link_to_i18n (t "menu.contact" ), '/business/contact.html' %></li>
 
               <li>
                   <a href="https://app.loyal.guru/#/signin" target="_blank" class="visible-md visible-lg ">Log in</a>
               </li>
+
+                    <li><%= link_to (t "menu.english" ), '/en/business/' %></li>
+
+              <li class="dropdown language-choser">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <%= t "menu.spanish" %> <b class="caret"></b>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><%= link_to (t "menu.spanish"), '/business/' %></li>
+                    <li><%= link_to (t "menu.english" ), '/en/business/' %></li>
+                  </ul>
+              </li>
+
             </ul>
         </nav>
       </div>

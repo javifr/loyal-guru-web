@@ -17,11 +17,16 @@ es:
     platform: "Plataforma"
     plans: "Planes"
     go: "Acceder"
+    spanish: "Español"
+    english: "English"
 
   cta:
     title: "Prueba <strong>Loyal Guru</strong> y lleva tus ventas a otro nivel."
 
   customer:
+    seo:
+      title: "Loyal Guru - Tu plataforma online de fidelización de clientes"
+      description: "Una plataforma online para hacer marketing omnicanal, crear una experiencia in-store única, redirigir tráfico online a tus puntos de venta físicos y en general activar las ventas de tus establecimientos."
     hero_title: "Tus tarjetas de fidelización<br/> en un único lugar"
     hero_subtitle: "Compra en tus sitios favoritos <br/>y obtén regalos por ello"
     features_title_1: "Todas tus tarjetas de fidelización en tu smartphone"
@@ -36,6 +41,8 @@ es:
     own_a_business_body: "Integra un programa de fidelización de clientes que realmente funciona"
 
     download:
+      seo:
+        title: "Loyal Guru - Descarga la aplicaición para iOs o Android"
       title: "Loyal Guru App"
       sub_title: "Escoge la descarga más adecuada para tu smartphone"
 
@@ -45,6 +52,9 @@ es:
 
   business:
     home:
+      seo:
+        title: "Loyal Guru - Tu plataforma online de fidelización de clientes"
+        description: "Una plataforma online para hacer marketing omnicanal, crear una experiencia in-store única, redirigir tráfico online a tus puntos de venta físicos y en general activar las ventas de tus establecimientos."
       title: "Una plataforma para mejorar el rendimiento de tus tiendas"
       claim: "Cada consumidor cuenta"
       view_more: "Saber más"
@@ -77,6 +87,8 @@ es:
       feature_body_8: "Gracias a la API Rest de Loyal Guru es muy sencillo integrar la plataforma con tus TPV's, ERP, e-commerce u otros sistemas."
 
     plans:
+      seo:
+        title: "Loyal Guru | Precios"
       title: "Planes disponibles"
       sub_title: "Descubre el plan que mejor se adapte a tus necesidades"
       plan_basic: "Básico"
@@ -112,6 +124,8 @@ es:
       faq_body_4: "El plan personalizado ofrece la posibilidad de integrar en una App del cliente toda la funcionalidad de Loyal Guru, y permite ofrecer una experiencia de cara a al cliente completamente envuelta del ecosistema de la marca."
 
     contact:
+      seo:
+        title: "Loyal Guru | Contacta"
       title: "Envíanos un mensaje"
       sub_title: "Puedes contactarnos para cualquier cosa relacionada con Loyal Guru <br/> Te contactaremos en menos de 48 horas"
       form_name: "Tu nombre"
@@ -124,6 +138,9 @@ es:
       address: "Dirección"
 
     loyalty:
+      seo:
+        title: "Loyal Guru - Plataforma de fidelización de clientes para retail"
+        description: "Ofrece a tus clientes una tarjeta de fidelización digital para que sigan tu programa de puntos y almancenen cupones de descuento"
       hero_title: "Ofrece una tarjeta de fidelización digital a tus clientes"
       title: "¿Cómo funciona?"
       sub_title: "Loyal Guru permite integrar de forma fácil un programa de fidelización en tu empresa"
@@ -150,6 +167,9 @@ es:
       feature_sub_body_6: "Tus clientes se lo pasarán bien consultando sus puntos, identificandose en el puntos de venta y en definitiva relacionandose con tu marca de una manera especial."
 
     marketing:
+      seo:
+        title: "Loyal Guru - Realiza campañas de marketing omnicanal"
+        description: "Crear, mide y optimiza campañas de marketing que podrás desplegar por mail, sms o notificación push"
       hero_title: "Cada cliente es único <br/>y tus campañas deberían tenerlo en cuenta"
       title: "Crea, mide y optimiza tus campañas de marketing"
       sub_title: "Loyal Guru te permitirá desplegar efectivas campañas omnicanal"
@@ -176,6 +196,9 @@ es:
       feature_sub_body_6: "Gracias al uso de una nueva tecnología, los Beacons, serás capaz de impactar al cliente cuando pase cerca de tu tienda o cuando esté en una zona en conreto de tu establecimiento."
 
     operations:
+      seo:
+        title: "Loyal Guru - Visión 360ª de tus tiendas"
+        description: "Una plataforma para analizar desde un único lugar ventas, vendedores, establecimientos y mucho más."
       hero_title: "Visibilidad completa 360º<br/>de todas tus tiendas"
       feature_title_1: "Dispón de métricas accionables"
       feature_body_1_1: "Monitoriza el rendimiento de tus tiendas en tiempo real y asegúrate de reaccionar ante los problemas antes de que provoquen pérdidas en ventas."

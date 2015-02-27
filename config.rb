@@ -22,7 +22,9 @@
 # A path which all have the same layout
 with_layout :layout_business do
   page "/business/*"
+  page "/en/business/*"
 end
+
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
@@ -78,4 +80,15 @@ activate :directory_indexes
 # config.rb
 activate :google_analytics do |ga|
   ga.tracking_id = 'UA-58977915-1' # Replace with your property ID.
+end
+
+
+helpers do
+  def link_to_i18n(lname, lpath, *options)
+    if ( I18n.locale.to_s != "es")
+      link_to lname, '/' + I18n.locale.to_s + lpath
+    else
+      link_to lname, lpath
+    end
+  end
 end
