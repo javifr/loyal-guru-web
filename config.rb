@@ -86,9 +86,9 @@ end
 helpers do
   def link_to_i18n(lname, lpath, *options)
     if ( I18n.locale.to_s != "es")
-      link_to lname, '/' + I18n.locale.to_s + lpath
+      link_to lname, '/' + I18n.locale.to_s + lpath, options[0]
     else
-      link_to lname, lpath
+      link_to lname, lpath, options[0]
     end
   end
 end

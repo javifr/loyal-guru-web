@@ -17,15 +17,17 @@ en:
     platform: "Platform"
     plans: "Plans"
     go: "Log in"
+    es: "Español"
+    en: "English"
 
   cta:
     title: "Start with <strong>Loyal Guru</strong> and boost your sales"
 
   customer:
     seo:
-      title: "Loyal Guru - Tu plataforma online de fidelización de clientes"
+      title: "Loyal Guru - An online loyalty platform for the retail industry"
       description: "Una plataforma online para hacer marketing omnicanal, crear una experiencia in-store única, redirigir tráfico online a tus puntos de venta físicos y en general activar las ventas de tus establecimientos."
-    hero_title: "You loyalty cards<br/> in one place"
+    hero_title: "Your loyalty cards<br/> in one place"
     hero_subtitle: "Buy from your favourite places <br/>and get rewarded with prizes"
     features_title_1: "All your loyalty cards in your smartphone"
     features_title_2: "A wallet for all your coupons"

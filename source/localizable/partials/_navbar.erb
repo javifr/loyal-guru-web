@@ -6,7 +6,8 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-                <a href="/" class="navbar-brand"><%= image_tag "resources/logo.png", style: "max-width:222px;" %></a>
+              <%= link_to_i18n (image_tag "resources/logo.png", style: "max-width:222px;"), "/", class: "navbar-brand" %> <!--
+                <a href="/" class="navbar-brand"><%= image_tag "resources/logo.png", style: "max-width:222px;" %></a> -->
 
         </div>
         <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">

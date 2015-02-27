@@ -17,8 +17,8 @@ es:
     platform: "Plataforma"
     plans: "Planes"
     go: "Acceder"
-    spanish: "Español"
-    english: "English"
+    es: "Español"
+    en: "English"
 
   cta:
     title: "Prueba <strong>Loyal Guru</strong> y lleva tus ventas a otro nivel."

@@ -1,9 +1,7 @@
 # Multilange
-- Repasar doc borja en site
 - Como pasar los params de options de link_to...
 - Link en logo bien en función de idioma
-- Get current language y modificar navbar acorde
-- Montar links en general acorde a current language ( modificar link_to ? )
+- Repasar doc borja en site
 - Pantallazos en ingles
 - traducir seo's
 
