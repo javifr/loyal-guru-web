@@ -1,0 +1,17 @@
+  <header class="navbar navbar-inverse <%= htmlClass %>" role="banner">
+      <div class="container">
+        <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+                <a href="/" class="navbar-brand"><%= image_tag "resources/logo.png", style: "max-width:222px;" %></a>
+        </div>
+        <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li><%= link_to (t "customer.own_a_business_title"), '/business/index.html', class: "button-outline" %></li>
+            </ul>
+        </nav>
+      </div>
+  </header>

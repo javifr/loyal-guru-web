@@ -1,0 +1,75 @@
+  <div id="tabs">
+    <div class="container">
+      <div class="row header">
+        <div class="col-md-12">
+          <h3><%= t "business.home.claim" %></h3>
+          <p><%= t "business.home.sub_claim" %></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 tabs-wrapper">
+          <ul class="nav nav-tabs">
+              <li class="active"><a href="#home" data-toggle="tab"><%= t "menu.loyalty" %></a></li>
+              <li><a href="#profile" data-toggle="tab">Marketing</a></li>
+              <li><a href="#messages" data-toggle="tab"><%= t "menu.operations" %></a></li>
+<!--               <li><a href="#settings" data-toggle="tab">Get more done faster</a></li> -->
+          </ul>
+
+          <div class="tab-content">
+              <div class="tab-pane fade in active" id="home">
+                <div class="col-md-6 info">
+                  <h4><%= t "business.home.loyalty_title" %></h4>
+                  <p><%= t "business.home.loyalty_body_1" %>
+                  </p>
+                  <p>
+                    <%= t "business.home.loyalty_body_2" %>
+                  </p>
+                  <p>
+                  <%= link_to (t "business.home.view_more"), "/business/loyalty.html", class: "button-outline" %>
+                  </p>
+                </div>
+                <div class="col-md-6 image">
+                  <%= image_tag "resources/screenshots/fidelizacion.png", class: "img-responsive img-bottom-border", alt: "pic1" %>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="profile">
+                <div class="col-md-5 info">
+                  <h4><%= t "business.home.marketing_title" %></h4>
+                  <p>
+                   <%= t "business.home.marketing_body_1" %>
+                  </p>
+                  <p>
+                  <%= t "business.home.marketing_body_2" %>
+                  </p>
+                  <p>
+                  <%= link_to (t "business.home.view_more"), "/business/marketing.html", class: "button-outline" %>
+                  </p>
+                </div>
+                <div class="col-md-7 image">
+                <br/>
+                  <%= image_tag "resources/screenshots/marketing.png", class: "img-responsive", alt: "pic1" %>
+                </div>
+
+              </div>
+              <div class="tab-pane fade" id="messages">
+                <div class="col-md-4 info">
+                  <h4><%= t "business.home.operations_title" %></h4>
+                  <p>
+                    <%= t "business.home.operations_body_1" %></p>
+                  </p>
+                  <p>
+                  <%= link_to (t "business.home.view_more"), "/business/operations.html", class: "button-outline" %>
+                  </p>
+                </div>
+                <div class="col-md-8 image">
+                  <%= image_tag "resources/screenshots/operations-crop.png", class: "img-responsive img-bottom-border", alt: "pic1" %>
+                </div>
+              </div>
+
+          </div>
+
+          <br/><br/>
+        </div>
+      </div>
+    </div>
+  </div>
