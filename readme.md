@@ -1,6 +1,4 @@
 # Multilange
-- Como pasar los params de options de link_to...
-- Link en logo bien en función de idioma
 - Repasar doc borja en site
 - Pantallazos en ingles
 - traducir seo's
