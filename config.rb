@@ -22,7 +22,9 @@
 # A path which all have the same layout
 with_layout :layout_business do
   page "/business/*"
+  page "/en/business/*"
 end
+
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
@@ -53,6 +55,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+activate :i18n, :mount_at_root => :es , :langs => [:en, :es]
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
@@ -76,4 +80,15 @@ activate :directory_indexes
 # config.rb
 activate :google_analytics do |ga|
   ga.tracking_id = 'UA-58977915-1' # Replace with your property ID.
+end
+
+
+helpers do
+  def link_to_i18n(lname, lpath, *options)
+    if ( I18n.locale.to_s != "es")
+      link_to lname, '/' + I18n.locale.to_s + lpath, options[0]
+    else
+      link_to lname, lpath, options[0]
+    end
+  end
 end

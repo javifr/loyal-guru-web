@@ -1,6 +1,6 @@
 <%= partial "partials/header" %>
 
-<body id="<%= current_page.data.bodyId%>">
+<body id="<%= current_page.data.bodyId%>" class="customer">
 
   <%= partial("partials/navbar", :locals => { :htmlClass => current_page.data.navbarClass }) %>
 
@@ -9,7 +9,7 @@
   <% end %>
 
 	  <%= yield %>
-  
+
   <% if current_page.data.wrapped %>
 	  </div></div></div>
   <% end %>
