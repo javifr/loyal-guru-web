@@ -1,0 +1,19 @@
+  <div id="mobile">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 hidden-xs">
+          <%= image_tag "resources/guru-cut.png", :class=> "device img-responsive", alt: "mobile" %>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="info">
+            <h3><%= t "business.home.loyal_guru_helps_you_title" %></h3>
+            <p class="">
+            <%= t "business.home.loyal_guru_helps_you_body" %>
+            </p>
+            <%= link_to_i18n (t "menu.contact"), "/business/contact.html",:class=>"button button-small" %>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
