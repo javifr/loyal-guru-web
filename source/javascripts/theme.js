@@ -1,10 +1,30 @@
-// 
-//	Scripts for the theme, 
+//
+//	Scripts for the theme,
 // 	slideshow is used for Home Alt #4 (index4.html)
 // 	services is used for Services (services.html)
-// 
+//
 
 $(function () {
+
+	var lang = $('html').attr('lang');
+	if( lang == "es"){
+		$.cookieCuttr({
+			cookieDeclineButton: false,
+			cookieAnalyticsMessage: "Usamos cookies para analizar las visitas a nuestro site, no guardamos datos personales.",
+			cookieAcceptButtonText: "Aceptar cookies",
+			cookieNotificationLocationBottom: true,
+			cookieWhatAreLinkText: "¿Que són las cookies?"
+		}
+		);
+	}else{
+		$.cookieCuttr({
+			cookieDeclineButton: false,
+			cookieNotificationLocationBottom: true,
+		}
+		);
+	}
+
+
 	slideshow.initialize();
 
 	services.initialize();
@@ -36,7 +56,7 @@ var contactForm = {
 		if (!$contactForm.length) {
 			return;
 		}
-		
+
 		$contactForm.validate({
 			rules: {
 				"name": {
@@ -84,7 +104,7 @@ var services = {
 				var index = $features.index(this);
 				$screens.stop().fadeOut();
 				$screens.eq(index).fadeIn();
-			}			
+			}
 		});
 	},
 	initialize: function () {

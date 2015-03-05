@@ -27,6 +27,7 @@
     <%= stylesheet_link_tag "compiled/theme.css" %>
     <%= stylesheet_link_tag "vendor/animate.css" %>
     <%= stylesheet_link_tag "vendor/brankic.css" %>
+    <%= stylesheet_link_tag "cookiecuttr.css" %>
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">    <!-- Custom -->
     <%= stylesheet_link_tag "styles.css" %>
@@ -34,6 +35,8 @@
   <!-- javascript -->
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <%= javascript_include_tag "jquery.cookie.js" %>
+    <%= javascript_include_tag "jquery.cookiecuttr.js" %>
     <%= javascript_include_tag "bootstrap/bootstrap.min.js" %>
     <%= javascript_include_tag "theme.js" %>
 
