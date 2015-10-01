@@ -1,17 +1,17 @@
-<%= partial "partials/header" %>
+ <%= partial "partials/header" %>
 
-<body id="<%= current_page.data.bodyId%>" class="customer">
+<body id="<%= current_page.data.bodyId%>" class="business">
 
   <%= partial("partials/navbar", :locals => { :htmlClass => current_page.data.navbarClass }) %>
 
   <% if current_page.data.wrapped %>
-		<div class="container"><div class="row"><div class="col-md-12">
+    <div class="container"><div class="row"><div class="col-md-12">
   <% end %>
 
-	  <%= yield %>
+    <%= yield %>
 
   <% if current_page.data.wrapped %>
-	  </div></div></div>
+    </div></div></div>
   <% end %>
 
   <%= partial "partials/footer_menu" %>
