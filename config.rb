@@ -17,13 +17,14 @@
 # page "/path/to/file.html", :layout => false
 #
 # With alternative layout
-# page "/business/*.html", :layout => :layout_business
+# page "/*.html", :layout => :layout_business
 #
 # A path which all have the same layout
-with_layout :layout_business do
-  page "/business/*"
-  page "/en/business/*"
+with_layout :layout_customer do
+  page "/customer/*"
+  page "/en/customer/*"
 end
+
 
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
@@ -92,3 +93,4 @@ helpers do
     end
   end
 end
+

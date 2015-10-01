@@ -1,0 +1,29 @@
+  <header class="navbar navbar-inverse <%= htmlClass %>" role="banner">
+      <div class="container">
+        <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+              <%= link_to_i18n (image_tag "resources/logo.png", style: "max-width:222px;"), "/", class: "navbar-brand" %> <!--
+                <a href="/" class="navbar-brand"><%= image_tag "resources/logo.png", style: "max-width:222px;" %></a> -->
+
+        </div>
+        <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li><%= link_to_i18n (t "customer.own_a_business_title"), '/index.html' %></li>
+          <li class="dropdown language-choser">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <%= t "menu.#{I18n.locale.to_s}" %> <b class="caret"></b>
+              </a>
+              <ul class="dropdown-menu">
+                <li><%= link_to (t "menu.es"), '/customer/' %></li>
+                <li><%= link_to (t "menu.en" ), '/en/customer/' %></li>
+              </ul>
+          </li>
+            </ul>
+        </nav>
+
+      </div>
+  </header>

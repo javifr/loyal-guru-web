@@ -6,24 +6,46 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-              <%= link_to_i18n (image_tag "resources/logo.png", style: "max-width:222px;"), "/", class: "navbar-brand" %> <!--
-                <a href="/" class="navbar-brand"><%= image_tag "resources/logo.png", style: "max-width:222px;" %></a> -->
+
+              <%= link_to_i18n (image_tag "resources/logo-business.png", style: "max-width:222px;"), "/", class: "navbar-brand" %>
 
         </div>
         <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
             <ul class="nav navbar-nav navbar-right">
-              <li><%= link_to_i18n (t "customer.own_a_business_title"), '/business/index.html' %></li>
-          <li class="dropdown language-choser">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                <%= t "menu.#{I18n.locale.to_s}" %> <b class="caret"></b>
-              </a>
-              <ul class="dropdown-menu">
-                <li><%= link_to (t "menu.es"), '/' %></li>
-                <li><%= link_to (t "menu.en" ), '/en/' %></li>
-              </ul>
-          </li>
+
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <%= t "menu.platform" %> <b class="caret"></b>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><%= link_to_i18n (t "menu.loyalty" ), '/loyalty.html' %></li>
+                    <li><%= link_to_i18n 'Marketing', '/marketing.html' %></li>
+                    <li><%= link_to_i18n (t "menu.operations" ), '/operations.html' %></li>
+                  </ul>
+              </li>
+
+              <li><%= link_to_i18n (t "menu.plans" ), '/pricing.html' %></li>
+
+              <li><%= link_to_i18n (t "customer.are_you_a_customer", class: "btn-outline"), '/customer/index.html' %></li>
+              <li><%= link_to_i18n (t "menu.contact" ), '/contact.html' %></li>
+
+              <li>
+                  <a href="https://app.loyal.guru/#/signin" target="_blank" class="visible-md visible-lg ">Log in</a>
+              </li>
+
+              <li class="dropdown language-choser">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <%= t "menu.#{I18n.locale.to_s}" %> <b class="caret"></b>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><%= link_to (t "menu.es"), '/' %></li>
+                    <li><%= link_to (t "menu.en" ), '/en/' %></li>
+                  </ul>
+              </li>
+
+
+
             </ul>
         </nav>
-
       </div>
   </header>
