@@ -1,0 +1,7 @@
+{
+  "firebase": "lg-web",
+  "public": "build/",
+  "ignore": [
+    "theme-react"
+  ]
+}
